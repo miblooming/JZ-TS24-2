@@ -1,0 +1,2 @@
+copy "UPDATE.BIN" to SDcard, and insert SDcard into the Touch Screen
+Restart the screen

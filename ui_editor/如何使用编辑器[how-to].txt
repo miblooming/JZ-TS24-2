@@ -1,0 +1,22 @@
+1.如何使用皮肤
+将UPDATE.BIN复制到SD卡，插入屏幕升级即可
+
+2.如何二次编辑：
+1>删除JZhHelper/[resolution]/user下的所有文件
+2>复制皮肤文件夹“user”目录下的所有文件到，到JZhHelper/[resolution]/user
+3>运行JZHelper.exe
+
+3.编辑器运行环境：
+操作系统：WIN7以上
+.NET环境: V4.5或以上  (如果无法运行，请下载安装https://www.microsoft.com/zh-cn/download/details.aspx?id=30653 )
+
+4.字体
+对于繁体中文或英文用户，请安装字体，文件是“font/simsun.ttc”
+
+7.分辨率与尺寸对应关系
+320x240 2.4寸或2.8寸横屏
+240x320 2.4寸或2.8寸竖屏
+480x320 3.8寸横屏
+320x480 3.8寸竖屏
+480x272 4.6寸横屏
+272x480 4.6寸竖屏

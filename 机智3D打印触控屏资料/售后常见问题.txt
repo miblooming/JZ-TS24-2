@@ -1,0 +1,29 @@
+1.接线通电后，界面显示“未连接打印机”
+    连不上打印机原因：
+    1.接线是否正确？请再三确认，不要接反
+    2.波特率是否匹配？屏默认是250000，可以按需要修改为115200
+    3.是否插了热敏，是否打印机主控低温保护？
+    4.室温是否太低，比如低于5摄氏底，导致打印机低温保护，无法启动
+    5.主控1117稳压芯片，是否烧毁？
+    6.连接打印机的线接反，导致芯片接口烧毁
+
+    界面错误提示：
+    [1]Error:Printer set into dry run mode until restart! 
+    原因：主控没插热敏，或热敏没插好，或坏了。导致主板进入低温保护状态
+
+    [2]Error:Pritner stopped and use M999 to restart it .
+    (Temperature is reset. Set it after restartion)
+    原因：热敏未接好，或热敏已损坏
+
+2.PC上的“机智3D打印触控屏助手-简体中文版V1.0.exe”，运行后提示 .NET 4没有安装
+请先下载，并安装，Microsoft .NET Framework 4
+参考下载地址：https://www.microsoft.com/zh-cn/download/details.aspx?id=17718
+
+3.kossel机型，喷头Z方向乱动
+请确认“更多 > 自定义参数 > 成型尺寸 > Z”与实际相符
+请确认“更多 > 自定义参数 > 限位开关设置"与实际相符。一般是 XMIN YMIN ZMAX
+
+4.安装断电模块后，如何关机
+在”更多 > 工具箱 > 关机"
+长按屏幕上的复位键
+设置打印完成，自动断电关机
