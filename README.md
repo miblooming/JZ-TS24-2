@@ -2,6 +2,7 @@
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TFT46.jpg)
 # JZ-TS38
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TFT38.jpg)
+![image](https://github.com/miblooming/JZ-TS24-2/blob/master/%E6%99%92%E5%9B%BE/%E6%A8%A1%E5%9E%8B%E9%A2%84%E8%A7%88%20(3).jpg)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/%E6%99%92%E5%9B%BE/%E6%A8%A1%E5%9E%8B%E9%A2%84%E8%A7%88%20(1).jpg)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/%E6%99%92%E5%9B%BE/%E6%A8%A1%E5%9E%8B%E9%A2%84%E8%A7%88%20(2).jpg)
 # JZ-TS24-2
