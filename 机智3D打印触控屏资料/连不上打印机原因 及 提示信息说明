@@ -63,3 +63,18 @@
 
 [6]Error:volume. init failed*
 处理：在主控固件（marlin或repetier等）中将LCD2004和12864关闭
+        如果使用marlin固件，操作方法：
+        在Configuration.h中，搜索如下两项，确认其前面有“//”，有则表现关闭了黑白LCD屏
+        //#define REPRAP_DISCOUNT_SMART_CONTROLLER
+        //#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+
+【优化】
+一般情况下，不需要修改Marlin配置，即可正常使用本触摸屏，但做如下优化，可以提升极端情况下的打印质量，避免因2560运算性能不足，带来的卡顿现象
+1.将黑白LCD屏关闭
+        如果使用marlin固件，操作方法：
+        在Configuration.h中，搜索如下两项，确认其前面有“//”，有则表现关闭了黑白LCD屏
+        //#define REPRAP_DISCOUNT_SMART_CONTROLLER
+        //#define REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER
+2.将波特率设置为250000
+3.安装触摸屏时，尽量只漏出显示区域，一方面更美观，一方面也可以避免触摸屏排线外漏带来的不稳定隐患
+4.如需加尽引线，请使用屏蔽线，避免外界干扰
