@@ -1,26 +1,27 @@
-【界面元素说明】
-	界面元素分为“色块”，“图片”，“文本”三大类。自定义颜色可作为界面元素的属性
-	三种元素的区别：
-		色块，显示速度快，节省触控屏系统资源
-		图片，内容自定义程度高，但耗费资源，图片无法根据不同的“语言”区别显示
-		文本，可以方便实现多语言显示
-【修改方法】
-	在平面设计软件中，设计自己风格的界面效果图。设计时，字体使用“宋体”，中文支持16号及12号两种。英文支持12号，16号，48号3种。
-	设计时，有意识地将设计元素分解为“色块”，“图片”，“文本”三种
-	设计完成后，选添加颜色，再添加其它界面元素
-	批量替换图片后，当新旧图片尺寸不一致时，图片的XY坐标会错位，勾选“自动校正替换图片XY坐标”，以解决此问题。此功能仅对“替换”图片有效。即图片ImageId小于2500，且界面布局SID小于128的元素
-【注意事项】
-	触控屏的坐标系与平面设计软件相同，右上角为原点。X为从左至右，Y为从上至下
-	单色图，只能为黑或白，存放在user/image_1目录，彩色图，存放在user/image_2目录
-	图片需以英文字母小写命令
-	替换或新添加的图片，格式需为PNG32位
-	颜色数量上限为256种
-	色块数量上限为256个
-	图片数量上限为256张
-	文本数量上限为512条
-【修改建议】
-	尽量多使用色块，节省系统资源
-	图片双分为单色图或彩色图
-		单色图可实现动态变更颜色，及局部透明，图片显示区域为白色（#FFFFFF）,透明区域为黑色（#000000）
-		彩色图，颜色为16位色RGB565编码，相比电脑上的32位色，色域较小，显示时会有色差。
-		建议尽量不要大面积使用过渡色。同时彩色图数据量大，显示速度慢。尽量避免使用	
+Translate by Google
+【Interface Element Description】
+Interface elements are divided into "color block", "picture", "text" three categories. Custom colors can be used as attributes of interface elements
+The difference between the three elements:
+Color blocks, display speed, save touch screen system resources
+Image, content is highly customizable, but consumes resources, images can not be displayed according to different "languages"
+Text, you can easily achieve multi-language display
+【Modification method】
+In graphic design software, design your own style of interface renderings. Design, the font used "Times New Roman", Chinese support 16 and 12 two. English supports 12, 16, 24, 36, 48, 5 species.
+Design, the design elements will be consciously broken down into "color block", "picture", "text" three
+After the design is complete, choose to add color, and then add other interface elements
+Batch replacement of the picture, when the old and the new picture size is inconsistent, the picture XY coordinates will be dislocation, check the "automatic correction to replace the picture XY coordinates" to solve this problem. This function is only valid for "Replace" pictures. That is, the image ImageId is less than 2500, and the interface layout SID is less than 128 elements
+【Precautions】
+Touch screen coordinate system and graphic design software the same, the upper right corner of the origin. X is from left to right, Y is from top to bottom
+Monochrome image, only black or white, stored in the user / image_1 directory, color map, stored in the user / image_2 directory
+Pictures need English letters lowercase command
+Replace or add a new picture, the format must PNG32 bit
+The maximum number of colors is 256
+The maximum number of patches is 256
+The maximum number of images is 256
+The maximum number of text is 512
+【Proposed changes】
+Try to use more color blocks to save system resources
+Picture bisected into monochrome or color image
+Monochrome image can be dynamically changed color, and the local transparent, the picture display area is white (#FFFFFF), the transparent area is black (# 000000)
+Color map, the color is 16-bit color RGB565 encoding, compared to the 32-bit color on the computer, the smaller color gamut, there will be color when displayed.
+It is recommended not to use transitional color as much as possible. At the same time large amount of color map data, slow display. Try to avoid using

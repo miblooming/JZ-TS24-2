@@ -1,34 +1,36 @@
-﻿FAQ
-运行环境：
-操作系统：WIN7以上
-.NET环境: V4.0  (如果无法运行，请下载安装https://www.microsoft.com/zh-cn/download/details.aspx?id=17718 )
+﻿Translate by Bing
 
-1.这个助手有什么用？
-定制打印机参数，启动LOGO，打印机信息，自定义功能按钮，及深度UI定制
+FAQ
+Operating Environment:
+Operating system: WIN7
+. NET environment: V4.0 (Download installation https://www.microsoft.com/zh-cn/download/details.aspx?id=17718 If it cannot be run)
 
-2.如何使用？
-如图所示，进行自定义操作后，编译保存为custom.bin和ui.bin，将其拷贝到SD卡，插到触控屏上，按复位即可升级
+1. What's the use of this assistant?
+Custom printer parameters, starting logo, printer information, custom function buttons, and deep UI customization
 
-3.自定义功能按钮是定制的什么地方？
-“首页”-“我的工具”-“自定义”
-及“打印中”-“打印控制”-“自定义”
+2. How to use?
+As shown in the figure, after the custom operation, the compilation is saved to Custom.bin and Ui.bin, copy it to the SD card, plug it into the touch screen, and then upgrade it by reset.
 
-4.深度UI定制，可能定制什么内容？
-触控屏内所有用到的颜色，色块，图片，及文字等资源
-以及界面布局，包括界面元素的坐标，及元件点击后，是否发送GCODE,及GCODE内容
+3. What is the Custom Function button?
+"Home"-"My Tools"-"Custom"
+and "Print"-"Print Control"-"Custom"
 
-5.有部分内容看不懂，如何操作？
-只操作自己看得懂的地方
-不懂的地方，一次修改一个位置，刷机到屏幕中看效果，小修改，多尝试
+4. Depth UI customization, what content may be customized?
+Touch screen all the use of color, color, pictures, and text and other resources
+And the interface layout, including the interface element coordinates, and the component clicks, whether sends Gcode, and gcode content
 
-6.如何在界面上添加一个按钮，并使其按下后发送gcode
-在“功能自定义”-“GCODE”中，新建一段Gcode，并记录GcodeId
-在“界面编辑”列表中，选择一个页面。点击预览图下方的“添加元件”
-并勾选“高级模式”
-数据表，点击数据表最后一条。在预览窗口右边，填写参数。并在Action中填写GcodeId。必填写ID（不与其它重复），勾选TCH
-然后编译，更新即可
+5. Part of the content can not understand, how to operate?
+To operate only where you can understand
+Do not understand the place, one time to modify a position, brush machine to see the effect of the screen, small changes, try more
 
-7.图片使用什么格式
-PNG32格式，不透明
-彩色图，直接使用
-单色图，需将内容区别置为纯白#FFFFFF，透明区域置为纯黑#000000
+6. How to add a button to the interface, and make it press and send Gcode
+In feature customization-gcode, create a new gcode and record Gcodeid
+In the interface editing list, select a page. Click "Add symbol" below the preview
+And check "Advanced Mode"
+Datasheet, click the last one in the datasheet. On the right side of the preview window, fill in the parameters. and fill in the Gcodeid in action. Must fill in ID (not with other duplicates), tick tch
+Then compile, update
+
+7. What format does the picture use?
+PNG32 format, opaque
+Color map, Direct use
+Monochrome, you need to distinguish between the content of pure white ffffff, transparent area set to black #000000
