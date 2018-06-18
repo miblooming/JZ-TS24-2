@@ -1,0 +1,36 @@
+﻿Translate by Bing
+
+FAQ
+Operating Environment:
+Operating system: WIN7
+. NET environment: V4.0 (Download installation https://www.microsoft.com/zh-cn/download/details.aspx?id=17718 If it cannot be run)
+
+1. What's the use of this assistant?
+Custom printer parameters, starting logo, printer information, custom function buttons, and deep UI customization
+
+2. How to use?
+As shown in the figure, after the custom operation, the compilation is saved to Custom.bin and Ui.bin, copy it to the SD card, plug it into the touch screen, and then upgrade it by reset.
+
+3. What is the Custom Function button?
+"Home"-"My Tools"-"Custom"
+and "Print"-"Print Control"-"Custom"
+
+4. Depth UI customization, what content may be customized?
+Touch screen all the use of color, color, pictures, and text and other resources
+And the interface layout, including the interface element coordinates, and the component clicks, whether sends Gcode, and gcode content
+
+5. Part of the content can not understand, how to operate?
+To operate only where you can understand
+Do not understand the place, one time to modify a position, brush machine to see the effect of the screen, small changes, try more
+
+6. How to add a button to the interface, and make it press and send Gcode
+In feature customization-gcode, create a new gcode and record Gcodeid
+In the interface editing list, select a page. Click "Add symbol" below the preview
+And check "Advanced Mode"
+Datasheet, click the last one in the datasheet. On the right side of the preview window, fill in the parameters. and fill in the Gcodeid in action. Must fill in ID (not with other duplicates), tick tch
+Then compile, update
+
+7. What format does the picture use?
+PNG32 format, opaque
+Color map, Direct use
+Monochrome, you need to distinguish between the content of pure white ffffff, transparent area set to black #000000
