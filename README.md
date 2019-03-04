@@ -23,3 +23,4 @@ My Email:loomingxu@qq.com
 # UI Editor for JZ-TS24-2
 
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/Introduction/Screensnap/ui_editor.JPG)
+![image](https://github.com/miblooming/JZ-TS24-2/blob/master/WifiHelper%20(3).png)
