@@ -3,6 +3,7 @@
 # JZ-TS35
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35.jpg)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35-2.jpg)
+![image](https://github.com/miblooming/JZ-TS24-2/blob/master/language.png)
 # Thumbnail
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/thumbnail.jpg)
 # UI Custom
