@@ -4,6 +4,7 @@
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35.jpg)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35-2.jpg)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/language.png)
+![image](https://github.com/miblooming/JZ-TS24-2/blob/master/wifi%E6%8E%A5%E7%BA%BF%E5%9B%BE1.jpg)
 # Thumbnail
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/thumbnail.jpg)
 # UI Custom
