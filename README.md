@@ -22,7 +22,7 @@ It can work with Mega2560+Ramps1.4 well.
 You can get it from this link:https://cxdiy.taobao.com/
 My Email:loomingxu@qq.com
 
-# UI Editor for JZ-TS24-2
+# UI Editor for JZ-TS35-2
 
-![image](https://github.com/miblooming/JZ-TS24-2/blob/master/Introduction/Screensnap/ui_editor.JPG)
+![image](https://github.com/miblooming/JZ-TS24-2/blob/master/UI%E7%BC%96%E8%BE%91%E5%99%A8.png)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/WifiHelper%20(3).png)
