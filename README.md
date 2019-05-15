@@ -22,10 +22,12 @@ It can work with Mega2560+Ramps1.4 well.
 You can get it from this link:https://cxdiy.taobao.com/
 My Email:loomingxu@qq.com
 
-# UI Editor for JZ-TS35-2
+# UI Editor for JZ-TS35
 
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/UI%E7%BC%96%E8%BE%91%E5%99%A81.png)
-![image](https://github.com/miblooming/JZ-TS24-2/blob/master/WifiHelper%20(3).png)
+
+# WIFI Helper for JZ-TS35 on Cura
+![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZHelper_ui_editor/JZ-TS35WIFI___(3.5)/cura%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E/cura_plugin(0).png)
 
 #Some resources:
 
