@@ -26,3 +26,9 @@ My Email:loomingxu@qq.com
 
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/UI%E7%BC%96%E8%BE%91%E5%99%A81.png)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/WifiHelper%20(3).png)
+
+#Some resources:
+
+JZ-TS35 Case
+
+https://www.thingiverse.com/thing:3583004
