@@ -1,0 +1,17 @@
+CURA插件使用说明：
+1.更新屏幕固件及WIFI固件至 3.6.1
+2.安装Cura4.0或更高版本：http://ultimaker.cn/Ultimaker-cura-software
+3.解压JZ_TS_WIFIPlugin.zip到文件夹，再将其复制到CURA插件目录，即【cura.exe所在文件夹】\plugins\
+	例如：
+		D:\Program Files\Ultimaker Cura 4.0\plugins
+4.开机，启动cura软件。在连接打印机界面，输入屏幕上显示的IP，然后点”连接”
+
+注意：
+需确保你的打印机，与电脑处于同一局域网内
+
+
+* Manually:
+  - Make sure your Cura version is 4.0 or newer
+  - Download or clone the repository into [Cura installation folder]/plugins/JZ_TS_WIFIPlugin
+    or in the plugins folder inside the configuration folder. The configuration folder can be
+    found via Help -> Show Configuration Folder inside Cura.
