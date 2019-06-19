@@ -1,0 +1,10 @@
+FlyingBearPlugin:
+Cura plugin which enables printing directly to the FlyingBear 3d printer and monitoring the progress
+
+Manager your FlyingBear printers via WIFI
+
+* Manually Install:
+  - Make sure your Cura version is 4.0 or newer
+  - Unzip the plugin into [Cura installation folder]/plugins/FlyingBearPlugin
+    or in the plugins folder inside the configuration folder. The configuration folder can be
+    found via Help -> Show Configuration Folder inside Cura.
