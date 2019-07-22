@@ -1,3 +1,10 @@
+It can work with Mega2560+Ramps and equivalent Integration motherboard well.
+
+Compatible with Marlin(https://github.com/MarlinFirmware/Marlin)  and Repetier(https://github.com/repetier/Repetier-Firmware)
+
+You can get it from this link:https://cxdiy.taobao.com/
+My Email:loomingxu@qq.com
+
 # JZ-TS35
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35V3.1.jpg)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35_V3.1_.png)
@@ -10,12 +17,6 @@
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/thumbnail.jpg)
 # UI Custom
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/ui-custom.jpg)
-
-
-It can work with Mega2560+Ramps1.4 well.
-
-You can get it from this link:https://cxdiy.taobao.com/
-My Email:loomingxu@qq.com
 
 # UI Editor for JZ-TS35
 
