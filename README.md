@@ -1,8 +1,7 @@
 # JZ-TS35
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35V3.1.jpg)
-![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35_V3.1_.jpg)
+![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS35_V3.1_.png)
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/language.png)
-![image](https://github.com/miblooming/JZ-TS24-2/blob/master/wifi%E6%8E%A5%E7%BA%BF%E5%9B%BE1.jpg)
 # JZ-TS40
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/JZ-TS40_V3.0.jpg)
 # JZ-TS24-3
