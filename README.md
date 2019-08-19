@@ -20,6 +20,26 @@ My Email:loomingxu@qq.com
 
 # UI Editor for JZ-TS35
 
+1__How to modify the splash page
+https://youtu.be/aNkoLSv5kX4
+1_after_flash_firmwave
+https://youtu.be/okr4Vd4Ailk
+
+
+2__How to generate a shortcut menu
+https://youtu.be/vGQ0zAlAcg8
+2_after_flash_firmwave
+https://youtu.be/745RStmK8kQ
+
+3__How to create a new page
+https://youtu.be/8mre5AB4n4c
+3_after_flash_firmwave
+https://youtu.be/cOY908JHuNE
+
+4_How to modify a page
+https://youtu.be/jVTZHx7PIe0
+
+
 ![image](https://github.com/miblooming/JZ-TS24-2/blob/master/UI%E7%BC%96%E8%BE%91%E5%99%A81.png)
 
 # WIFI Helper for JZ-TS35 on Cura
