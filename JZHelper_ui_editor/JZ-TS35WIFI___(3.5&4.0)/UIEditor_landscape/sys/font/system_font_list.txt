@@ -1,50 +1,22 @@
-
-Adobe Arabic
-Adobe Caslon Pro
-Adobe Caslon Pro Bold
-Adobe Devanagari
-Adobe Garamond Pro
-Adobe Garamond Pro Bold
-Adobe Gothic Std B
-Adobe Hebrew
-Adobe Myungjo Std M
-Adobe Naskh Medium
-Adobe 仿宋 Std R
-Adobe 宋体 Std L
-Adobe 明體 Std L
-Adobe 楷体 Std R
-Adobe 繁黑體 Std B
-Adobe 黑体 Std R
-Agency FB
+Aharoni
 Algerian
+Andalus
+Angsana New
+AngsanaUPC
+Aparajita
+Arabic Typesetting
 Arial
 Arial Black
 Arial Narrow
-Arial Rounded MT Bold
 Arial Unicode MS
-Axure Handwriting
-Bahnschrift
-Bahnschrift Condensed
-Bahnschrift Light
-Bahnschrift Light Condensed
-Bahnschrift Light SemiCondensed
-Bahnschrift SemiBold
-Bahnschrift SemiBold Condensed
-Bahnschrift SemiCondensed
-Bahnschrift SemiLight
-Bahnschrift SemiLight Condensed
 Baskerville Old Face
+Batang
+BatangChe
 Bauhaus 93
 Bell MT
 Berlin Sans FB
 Berlin Sans FB Demi
 Bernard MT Condensed
-Birch Std
-Blackadder ITC
-Blackoak Std
-Bodoni MT
-Bodoni MT Black
-Bodoni MT Condensed
 Bodoni MT Poster Compressed
 Book Antiqua
 Bookman Old Style
@@ -52,249 +24,208 @@ Bookshelf Symbol 7
 Bradley Hand ITC
 Britannic Bold
 Broadway
+Browallia New
+BrowalliaUPC
 Brush Script MT
-Brush Script Std
 Calibri
 Calibri Light
 Californian FB
-Calisto MT
 Cambria
 Cambria Math
 Candara
-Candara Light
-Castellar
 Centaur
 Century
 Century Gothic
-Century Schoolbook
-Chaparral Pro
-Chaparral Pro Light
-Charlemagne Std
 Chiller
 Colonna MT
 Comic Sans MS
 Consolas
 Constantia
 Cooper Black
-Cooper Std Black
-Copperplate Gothic Bold
-Copperplate Gothic Light
 Corbel
-Corbel Light
+Cordia New
+CordiaUPC
 Courier New
-Curlz MT
-Dubai
-Dubai Light
-Dubai Medium
+DaunPenh
+David
+DFKai-SB
+DilleniaUPC
+DokChampa
+Dotum
+DotumChe
 Ebrima
-Edwardian Script ITC
-Elephant
-Engravers MT
-Eras Bold ITC
-Eras Demi ITC
-Eras Light ITC
-Eras Medium ITC
-Felix Titling
+Estrangelo Edessa
+EucrosiaUPC
+Euphemia
 Footlight MT Light
-Forte
-Franklin Gothic Book
-Franklin Gothic Demi
-Franklin Gothic Demi Cond
-Franklin Gothic Heavy
 Franklin Gothic Medium
-Franklin Gothic Medium Cond
+FrankRuehl
+FreesiaUPC
 Freestyle Script
 French Script MT
 Gabriola
 Gadugi
 Garamond
+Gautami
 Georgia
-Giddyup Std
-Gigi
-Gill Sans MT
-Gill Sans MT Condensed
-Gill Sans MT Ext Condensed Bold
-Gill Sans Ultra Bold
-Gill Sans Ultra Bold Condensed
-Gloucester MT Extra Condensed
-Goudy Old Style
-Goudy Stout
-Haettenschweiler
+Gisha
+Gulim
+GulimChe
+Gungsuh
+GungsuhChe
 Harlow Solid Italic
 Harrington
 High Tower Text
-Hobo Std
-HoloLens MDL2 Assets
-HP Simplified
-HP Simplified Light
 Impact
-Imprint MT Shadow
 Informal Roman
-Ink Free
-Javanese Text
+IrisUPC
+Iskoola Pota
+JasmineUPC
 Jokerman
 Juice ITC
-Kozuka Gothic Pr6N B
-Kozuka Gothic Pr6N EL
-Kozuka Gothic Pr6N H
-Kozuka Gothic Pr6N L
-Kozuka Gothic Pr6N M
-Kozuka Gothic Pr6N R
-Kozuka Gothic Pro B
-Kozuka Gothic Pro EL
-Kozuka Gothic Pro H
-Kozuka Gothic Pro L
-Kozuka Gothic Pro M
-Kozuka Gothic Pro R
-Kozuka Mincho Pr6N B
-Kozuka Mincho Pr6N EL
-Kozuka Mincho Pr6N H
-Kozuka Mincho Pr6N L
-Kozuka Mincho Pr6N M
-Kozuka Mincho Pr6N R
-Kozuka Mincho Pro B
-Kozuka Mincho Pro EL
-Kozuka Mincho Pro H
-Kozuka Mincho Pro L
-Kozuka Mincho Pro M
-Kozuka Mincho Pro R
+Kalinga
+Kartika
+Khmer UI
+KodchiangUPC
+Kokila
 Kristen ITC
 Kunstler Script
+Lao UI
+Latha
 Leelawadee
-Leelawadee UI
-Leelawadee UI Semilight
-Letter Gothic Std
-Lithos Pro Regular
+Levenim MT
+LilyUPC
 Lucida Bright
 Lucida Calligraphy
 Lucida Console
 Lucida Fax
 Lucida Handwriting
-Lucida Sans
-Lucida Sans Typewriter
 Lucida Sans Unicode
 Magneto
-Maiandra GD
 Malgun Gothic
-Malgun Gothic Semilight
+Mangal
 Marlett
 Matura MT Script Capitals
-Mesquite Std
+Meiryo
+Meiryo UI
 Microsoft Himalaya
+Microsoft JhengHei
 Microsoft JhengHei UI
-Microsoft JhengHei UI Light
 Microsoft New Tai Lue
 Microsoft PhagsPa
 Microsoft Sans Serif
 Microsoft Tai Le
 Microsoft Uighur
 Microsoft YaHei UI
-Microsoft YaHei UI Light
 Microsoft Yi Baiti
-Minion Pro
-Minion Pro Cond
-Minion Pro Med
-Minion Pro SmBd
+MingLiU
+MingLiU-ExtB
+MingLiU_HKSCS
+MingLiU_HKSCS-ExtB
+Miriam
+Miriam Fixed
 Mistral
 Modern No. 20
 Mongolian Baiti
 Monotype Corsiva
+MoolBoran
 MS Gothic
 MS Mincho
-MS Outlook
 MS PGothic
+MS PMincho
 MS Reference Sans Serif
 MS Reference Specialty
 MS UI Gothic
 MT Extra
 MV Boli
-Myanmar Text
-Myriad Arabic
-Myriad Hebrew
-Myriad Pro
-Myriad Pro Cond
-Myriad Pro Light
+Narkisim
 Niagara Engraved
 Niagara Solid
 Nirmala UI
-Nirmala UI Semilight
-Nueva Std
-Nueva Std Cond
-OCR A Extended
-OCR A Std
+Nyala
 Old English Text MT
+OLF SimpleSansOC
 Onyx
-Orator Std
-Palace Script MT
 Palatino Linotype
 Papyrus
 Parchment
-Perpetua
-Perpetua Titling MT
+Plantagenet Cherokee
 Playbill
+PMingLiU
+PMingLiU-ExtB
 Poor Richard
-Poplar Std
-Prestige Elite Std
 Pristina
-Rage Italic
+Raavi
 Ravie
-Rockwell
-Rockwell Condensed
-Rockwell Extra Bold
-Rosewood Std Regular
-Script MT Bold
-Segoe MDL2 Assets
+Rod
+Sakkal Majalla
 Segoe Print
 Segoe Script
 Segoe UI
-Segoe UI Black
-Segoe UI Emoji
-Segoe UI Historic
 Segoe UI Light
 Segoe UI Semibold
 Segoe UI Semilight
 Segoe UI Symbol
+Shonar Bangla
 Showcard Gothic
+Shruti
+Simplified Arabic
+Simplified Arabic Fixed
 SimSun-ExtB
-Sitka Banner
-Sitka Display
-Sitka Heading
-Sitka Small
-Sitka Subheading
-Sitka Text
 Snap ITC
 Stencil
-Stencil Std
+SWAstro
+SWComp
+SWGDT
+SWGothe
+SWGothg
+SWGothi
+SWGrekc
+SWGreks
+SWIsop1
+SWIsop2
+SWIsop3
+SWIsot1
+SWIsot2
+SWIsot3
+SWItal
+SWItalc
+SWItalt
+SWLink
+SWMap
+SWMath
+SWMeteo
+SWMono
+SWMusic
+SWRomnc
+SWRomnd
+SWRomns
+SWRomnt
+SWScrpc
+SWScrps
+SWSimp
+SWTxt
 Sylfaen
 Symbol
 Tahoma
-Tekton Pro
-Tekton Pro Cond
-Tekton Pro Ext
 Tempus Sans ITC
 Times New Roman
-Trajan Pro
+Traditional Arabic
 Trebuchet MS
-Tw Cen MT
-Tw Cen MT Condensed
-Tw Cen MT Condensed Extra Bold
+Tunga
+Utsaah
+Vani
 Verdana
+Vijaya
 Viner Hand ITC
 Vivaldi
 Vladimir Script
+Vrinda
 Webdings
 Wide Latin
 Wingdings
 Wingdings 2
 Wingdings 3
-Yu Gothic
-Yu Gothic Light
-Yu Gothic Medium
-Yu Gothic UI
-Yu Gothic UI Light
-Yu Gothic UI Semibold
-Yu Gothic UI Semilight
-ZWAdobeF
 仿宋
 华文中宋
 华文仿宋
@@ -308,18 +239,11 @@ ZWAdobeF
 华文隶书
 宋体
 幼圆
-微軟正黑體
-微軟正黑體 Light
 微软雅黑
-微软雅黑 Light
 新宋体
-新細明體-ExtB
 方正姚体
 方正舒体
 楷体
-等线
-等线 Light
-細明體-ExtB
-細明體_HKSCS-ExtB
+汉仪长仿宋体
 隶书
 黑体
