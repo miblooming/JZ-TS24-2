@@ -141,6 +141,7 @@ MV Boli
 Narkisim
 Niagara Engraved
 Niagara Solid
+Nina
 Nirmala UI
 Nyala
 Old English Text MT
@@ -159,6 +160,7 @@ Raavi
 Ravie
 Rod
 Sakkal Majalla
+Segoe Condensed
 Segoe Print
 Segoe Script
 Segoe UI

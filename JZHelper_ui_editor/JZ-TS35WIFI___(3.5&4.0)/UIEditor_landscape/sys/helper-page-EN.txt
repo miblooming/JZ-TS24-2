@@ -20,8 +20,12 @@ If it is standard GCODE (8001 ~ 8999), send GCODE
 If local instruction (7001 ~ 7999), execute local instruction
 among them:
 7000 ~ 7300 that the interface jump (7000 + page ID),
+7994 disable runout check on screen
+7995 enable runout check on screen
+7996 beep
 7997 list to restore the factory settings
 7998 Disconnect (release control so that the computer can connect to the printer)
+7993 ReConnect
 7999 means shutdown
 DEL: Only custom added elements can be deleted
 【note】
