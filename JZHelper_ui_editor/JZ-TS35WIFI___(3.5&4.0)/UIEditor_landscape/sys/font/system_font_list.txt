@@ -143,6 +143,7 @@ Niagara Engraved
 Niagara Solid
 Nina
 Nirmala UI
+NumberOnly
 Nyala
 Old English Text MT
 OLF SimpleSansOC
@@ -246,6 +247,7 @@ Zfull-GB
 微软雅黑
 新宋体
 方正姚体
+方正粗黑宋简体
 方正舒体
 楷体
 汉仪长仿宋体
