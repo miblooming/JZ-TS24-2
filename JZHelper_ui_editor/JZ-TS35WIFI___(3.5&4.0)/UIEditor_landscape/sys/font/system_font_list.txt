@@ -8,6 +8,7 @@ Adobe Gothic Std B
 Adobe Hebrew
 Adobe Myungjo Std M
 Adobe Naskh Medium
+Adobe Pi Std
 Adobe 仿宋 Std R
 Adobe 宋体 Std L
 Adobe 明體 Std L
@@ -75,6 +76,7 @@ Cooper Std Black
 Corbel
 Corbel Light
 Courier New
+Courier Std
 Ebrima
 Eccentric Std
 Footlight MT Light
@@ -168,6 +170,7 @@ MT Extra
 MV Boli
 Myanmar Text
 Myriad Arabic
+Myriad CAD
 Myriad Hebrew
 Myriad Pro
 Myriad Pro Cond
@@ -181,6 +184,7 @@ Nueva Std Cond
 NumberOnly
 OCR A Std
 Old English Text MT
+OLF SimpleSansOC
 Onyx
 Orator Std
 Palatino Linotype
@@ -217,6 +221,37 @@ Snap ITC
 Source Code Pro
 Stencil
 Stencil Std
+SWAstro
+SWComp
+SWGDT
+SWGothe
+SWGothg
+SWGothi
+SWGrekc
+SWGreks
+SWIsop1
+SWIsop2
+SWIsop3
+SWIsot1
+SWIsot2
+SWIsot3
+SWItal
+SWItalc
+SWItalt
+SWLink
+SWMap
+SWMath
+SWMeteo
+SWMono
+SWMusic
+SWRomnc
+SWRomnd
+SWRomns
+SWRomnt
+SWScrpc
+SWScrps
+SWSimp
+SWTxt
 Sylfaen
 Symbol
 Tahoma
@@ -274,6 +309,7 @@ Yu Gothic UI Semilight
 方正粗黑宋简体
 方正舒体
 楷体
+汉仪长仿宋体
 等线
 等线 Light
 細明體-ExtB
