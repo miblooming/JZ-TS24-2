@@ -1,0 +1,8 @@
+[1]Use a custom font file (Recommend!!)
+1.Copy your font into this folder.
+2.Modify the "language_font_mapping.txt". Make an association between the font file name and the language
+3.Delete the cache file folder in ../temp folder of your language.
+
+[2]Use a system font
+1.Modify the "language_font_mapping.txt". Make an association between the system font name and the language
+3.Delete the cache file folder in ../temp folder of your language.

@@ -1,0 +1,11 @@
+0:Chinese_Simplified:Zfull-BG.ttf
+1:Chinese_Traditional:Zfull-BG.ttf
+2:English:Zfull-BG.ttf
+3:Russian:Arial
+4:Spanish:Arial
+5:French:Arial
+6:Portuguese:Arial
+7:German:Arial
+8:Japanese:Zfull-BG.ttf
+9:Korean:Zfull-BG.ttf
+10:Turkish:Arial

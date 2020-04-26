@@ -1,0 +1,12 @@
+[1]Use a custom font file (Recommend!!)
+1.Turn off JZHelper
+2.Copy your font into this folder.
+3.Modify the "language_font_mapping.txt". Make an association between the font file name and the language
+4.Delete the cache file folder in ../temp folder of your language.
+5.Open JZHelper
+
+[2]Use a system font
+1.Turn off JZHelper
+2.Modify the "language_font_mapping.txt". Make an association between the system font name and the language
+3.Delete the cache file folder in ../temp folder of your language.
+4.Open JZHelper
